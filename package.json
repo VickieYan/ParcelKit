@@ -1,0 +1,11 @@
+{
+  "name": "parcelkit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/VickieYan/ParcelKit.git",
+  "author": "Vickie",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
