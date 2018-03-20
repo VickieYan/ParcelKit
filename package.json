@@ -6,7 +6,8 @@
   "author": "Vickie",
   "license": "MIT",
   "scripts": {
-    "start": "parcel ./client/public/index.html"
+    "start": "parcel ./client/public/index.html",
+    "fix": "tslint --fix -c ./tslint.json 'src/**/*{.ts,.tsx}'"
   },
   "dependencies": {
     "autoprefixer": "^8.1.0",
